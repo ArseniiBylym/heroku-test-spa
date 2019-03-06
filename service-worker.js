@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/heroku-spa-test/precache-manifest.502be7a8fae00eda8ee49c80d38e347e.js"
+  "/heroku-test-spa/precache-manifest.dc9f5cca0ff5e9274ae5e21b516f0257.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/heroku-spa-test/index.html", {
+workbox.routing.registerNavigationRoute("/heroku-test-spa/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
