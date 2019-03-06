@@ -2,7 +2,6 @@
   "name": "heroku-spa-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arseniibylym.github.io/heroku-test-spa",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
