@@ -1,13 +1,13 @@
 {
   "main.css": "/heroku-test-spa/static/css/main.018fdcde.chunk.css",
-  "main.js": "/heroku-test-spa/static/js/main.d529d098.chunk.js",
-  "main.js.map": "/heroku-test-spa/static/js/main.d529d098.chunk.js.map",
+  "main.js": "/heroku-test-spa/static/js/main.3ec72635.chunk.js",
+  "main.js.map": "/heroku-test-spa/static/js/main.3ec72635.chunk.js.map",
   "runtime~main.js": "/heroku-test-spa/static/js/runtime~main.99033eb8.js",
   "runtime~main.js.map": "/heroku-test-spa/static/js/runtime~main.99033eb8.js.map",
   "static/js/2.2888d8c7.chunk.js": "/heroku-test-spa/static/js/2.2888d8c7.chunk.js",
   "static/js/2.2888d8c7.chunk.js.map": "/heroku-test-spa/static/js/2.2888d8c7.chunk.js.map",
   "index.html": "/heroku-test-spa/index.html",
-  "precache-manifest.dc9f5cca0ff5e9274ae5e21b516f0257.js": "/heroku-test-spa/precache-manifest.dc9f5cca0ff5e9274ae5e21b516f0257.js",
+  "precache-manifest.5b07d7d69031d3b9268615a311df7d29.js": "/heroku-test-spa/precache-manifest.5b07d7d69031d3b9268615a311df7d29.js",
   "service-worker.js": "/heroku-test-spa/service-worker.js",
   "static/css/main.018fdcde.chunk.css.map": "/heroku-test-spa/static/css/main.018fdcde.chunk.css.map"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/heroku-test-spa/precache-manifest.dc9f5cca0ff5e9274ae5e21b516f0257.js"
+  "/heroku-test-spa/precache-manifest.5b07d7d69031d3b9268615a311df7d29.js"
 );
 
 workbox.clientsClaim();
