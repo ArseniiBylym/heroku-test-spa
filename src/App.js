@@ -10,7 +10,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
         Main app component
-        <Router basename="/heroku-test-spa">
+        <Router >
           <div>
 
           <div><Link to='/home' >home</Link></div>
